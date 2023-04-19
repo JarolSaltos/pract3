@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "pendulo_fisico.data.unityweb",
+"asmCodeUrl": "pendulo_fisico.asm.code.unityweb",
+"asmMemoryUrl": "pendulo_fisico.asm.memory.unityweb",
+"asmFrameworkUrl": "pendulo_fisico.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#0E4F77"
+}
